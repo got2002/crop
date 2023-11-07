@@ -1,0 +1,16 @@
+left, upper, right, lower
+Cases 	* Line 2-6 
+0.0, 0.0, 0.25, 1.0
+0.25, 0.0, 0.5, 1.0
+0.5, 0.0, 0.75, 1.0
+0.75, 0.0, 1.0, 1.0
+
+Bullet  * Line 8-12
+0.11, 0, 0.38, 0.5
+0.61, 0, 0.88, 0.5
+0.11, 0.5, 0.38, 1.0
+0.61, 0.5, 0.88, 1.0
+
+DB_name, Host, Username, Password, Port  * Line 13-14
+EVOFINDER_DB, 192.168.10.141, EVOFINDERAdmin, Thailand-2023, 5432
+

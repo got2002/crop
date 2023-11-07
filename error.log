@@ -1,0 +1,71 @@
+2023-11-07 13:42:47 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 13:42:47 [INFO] end
+
+2023-11-07 14:45:25 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 14:45:25 [INFO] end
+
+2023-11-07 14:45:32 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 14:45:32 [INFO] end
+
+2023-11-07 15:31:46 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 15:31:46 [INFO] end
+
+2023-11-07 15:32:02 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 15:32:02 [INFO] end
+
+2023-11-07 15:43:42 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 15:43:42 [INFO] end
+
+2023-11-07 15:50:45 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 15:50:45 [INFO] end
+
+2023-11-07 15:50:46 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 15:50:46 [INFO] end
+
+2023-11-07 15:52:28 [INFO] start
+Error: Invalid number of arguments. input_directory_cases input_directory_bullet output_directory
+2023-11-07 15:52:28 [INFO] end
+
+2023-11-07 15:54:26 [INFO] start
+[OK] Script starting with the correct number of arguments and valid directories.
+Error: tuple index out of range
+2023-11-07 15:54:26 [INFO] end
+
+2023-11-07 15:55:43 [INFO] start
+[OK] Script starting with the correct number of arguments and valid directories.
+Error: connection to server at "192.168.10.141", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2023-11-07 15:55:43 [INFO] end
+
+2023-11-07 15:57:06 [INFO] start
+[OK] Script starting with the correct number of arguments and valid directories.
+2023-11-07 16:01:47 [INFO] start
+[OK] Script starting with the correct number of arguments and valid directories.
+Error: connection to server at "192.168.10.141", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2023-11-07 16:01:47 [INFO] end
+
+2023-11-07 16:14:23 [INFO] start
+[OK] Script starting with the correct number of arguments and valid directories.
+Error: connection to server at "192.168.10.141", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2023-11-07 16:14:23 [INFO] end
+
+2023-11-07 16:15:04 [INFO] start
+[OK] Directory is correct.
+Error: connection to server at "192.168.10.141", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2023-11-07 16:15:04 [INFO] end
+
