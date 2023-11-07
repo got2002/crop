@@ -26,7 +26,7 @@ line_cases_start = 2
 line_cases_end = 6
 line_bullet_start = 8
 line_bullet_end = 12
-line_db = 
+line_db = 14
 
 
 def crop_and_save_images_from_db(input_cases,input_bullet,output_dir):
