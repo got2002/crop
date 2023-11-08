@@ -83,3 +83,10 @@ Error: connection to server at "192.168.10.141", port 5432 failed: Connection ti
 
 2023-11-08 14:54:42 [INFO] end
 
+2023-11-08 15:09:19 [INFO] start
+[OK] Directory is correct.
+Error: connection to server at "192.168.10.141", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2023-11-08 15:09:19 [INFO] end
+
